@@ -27,3 +27,4 @@ Links:
 - website - https://nicog124.github.io/team-generator-hw10/
 - github - https://github.com/Nicog124/team-generator-hw10
 
+--couldnt get my screenshots to upload for some reason--
