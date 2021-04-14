@@ -1,9 +1,11 @@
 # team-generator-hw10
 
 Description:
+
 The user is able to enter information about different employees to build a team profile. The team profile is generated in an html file and displays each team member as a card with their name, role, ID, email, and other information specific to their role.
 
 Usage:
+
 The user initializes the application in the command line with node app.js. The user is prompted to choose what type of employee they would like to create first. The options are intern, manager, and engineer.
 
 The intern option requires the user to input the name, ID, email, and school.
@@ -21,6 +23,7 @@ If they choose "No", the html page is generated with all the employees created.
 See below for an example of the prompts in the command line.
 
 Links:
+
 - website -
 - github - 
 
