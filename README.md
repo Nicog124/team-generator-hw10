@@ -24,6 +24,6 @@ See below for an example of the prompts in the command line.
 
 Links:
 
-- website -
-- github - 
+- website - https://nicog124.github.io/team-generator-hw10/
+- github - https://github.com/Nicog124/team-generator-hw10
 
